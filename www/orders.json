@@ -1,0 +1,20 @@
+[
+  {
+    "id" : "100",
+    "content" : "Batman Statue",
+    "img" : "img/1.jpg",
+    "status" : "In Transit"
+  },
+  {
+    "id" : "123",
+    "content" : "Cuddly kitten",
+    "img" : "img/2.jpg",
+    "status": "Delivered"
+  },
+  {
+    "id" : "200",
+    "content" : "Winnie-the-Pooh plushy",
+    "img" : "img/3.jpg",
+    "status" : "Cancelled by customer"
+  }
+]
