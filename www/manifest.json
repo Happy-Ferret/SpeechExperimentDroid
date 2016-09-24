@@ -1,6 +1,6 @@
 {
-  "name": "My Ionic App",
-  "short_name": "My Ionic App",
+  "name": "SpeechExperiment",
+  "short_name": "SpeechEx",
   "start_url": "index.html",
   "display": "standalone",
   "icons": [{
